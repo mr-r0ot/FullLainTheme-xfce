@@ -1,4 +1,4 @@
-```bash
+
 #!/usr/bin/env bash
 
 set -e
@@ -344,4 +344,3 @@ echo
 echo "Logout/login once, then launch Kitty."
 echo "Zsh will become the default shell."
 echo
-```
